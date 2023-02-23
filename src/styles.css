@@ -93,6 +93,7 @@ footer ul {
 .grid {
     display: grid;
     grid-template-columns: 1fr 2fr 2fr;
+    grid-gap:60px;
 
 }
 @media (max-width:960px){
