@@ -236,9 +236,15 @@ padding:10px;
         .embed {
             aspect-ratio: 16/9;
         }
-                .img-resp {
+                
+        .img-resp {
                     max-width: 100%;
-                    margin: 0 auto;
+                    margin: 0 auto;}
+
+    footer p{
+        text-align: center;
+    }
     
+            
 }
 
