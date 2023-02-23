@@ -201,6 +201,10 @@ padding:10px;
 }
 
 @media (max-width:960px){
+    .container {
+            max-width: 100%;
+           
+        }
     header{
         padding:60px 0;
     }
@@ -232,6 +236,9 @@ padding:10px;
         .embed {
             aspect-ratio: 16/9;
         }
+                .img-resp {
+                    max-width: 100%;
+                    margin: 0 auto;
     
 }
 
